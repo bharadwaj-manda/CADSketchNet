@@ -66,10 +66,4 @@ https://doi.org/10.1016/j.cag.2021.07.001.
 
 ---
 
-<ins>Files in this repository:</ins>
-
-**Dataset_A.7z** - The computer-generated sketch data of the CADSketchNet-A dataset
-
-**Dataset_B.7z** - The hand-drawn sketch data of the CADSketchNet-B dataset
-
 *Thanks are due to the many volunteers who have contributed to the dataset.*
