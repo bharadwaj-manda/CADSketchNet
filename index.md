@@ -1,37 +1,82 @@
-## Welcome to GitHub Pages
+---
+layout: default
+---
 
-You can use the [editor on GitHub](https://github.com/bharadwaj-manda/CADSketchNet/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# News
+>**(2021, July 20)** The final published version of the paper is [here](https://www.sciencedirect.com/science/article/pii/S0097849321001333)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> **(2021, July 03)** The paper is accepted for publication in the Special Section on [3DOR2021 - 14th EG 3D Object Retrieval Workshop](https://3dor2021.github.io/index.html) of the [Computers & Graphics](https://www.journals.elsevier.com/computers-and-graphics) Journal. The arxiv version of the paper is available [here](https://arxiv.org/pdf/2107.06212.pdf).
 
-### Markdown
+> **(2021, July 03)** This is the repository for the 'CADSketchNet' Dataset, associated with the paper ['CADSketchNet' - An Annotated Sketch dataset for 3D CAD Model Retrieval with Deep Neural Networks](https://www.sciencedirect.com/science/article/pii/S0097849321001333). For further details, contact Bharadwaj Manda via [here](https://www.linkedin.com/in/bharadwaj-manda-9730ab114/) or [here](https://bharadwaj-manda.netlify.app/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## CADSketchNet Dataset
 
-```markdown
-Syntax highlighted code block
+<figure>
+  <img src="comp-gen.png" alt="data" width="500" height="300"/>
+  <figcaption>Computer Generated Sketches - Dataset_A</figcaption>
+</figure>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+<figure>
+  <img src="hand_drawn.png" alt="data" width="500" height="300"/>
+  <figcaption>Hand-drawn Sketches - Dataset_B</figcaption>
+</figure>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+We introduce the CADSketchNet dataset, an annotated collection of sketches of 3D CAD models.
+- Dataset-A has 58,696 computer-generated sketches of the 3D CAD models across 68 categories of [MCB](https://mechanical-components.herokuapp.com/)
+- Dataset-B has 801 hand-drawn sketches of the 3D CAD models across 42 categories of [ESB](https://engineering.purdue.edu/cdesign/wp/downloads/)
 
-[Link](url) and ![Image](src)
+For further details, contact Bharadwaj Manda via [here](https://www.linkedin.com/in/bharadwaj-manda-9730ab114/) or [here](https://bharadwaj-manda.netlify.app/)
+
+## Download
+
+[Download Dataset-A](https://github.com/bharadwaj-manda/CADSketchNet/blob/main/Dataset_A.7z)
+
+[Download Dataset-B](https://github.com/bharadwaj-manda/CADSketchNet/blob/main/Dataset_B.7z)
+
+If the above links do not work for you, please [download both the datasets here](https://drive.google.com/drive/folders/1Q_j3wudpRMiz6T5KZdwILbrH_kQLjLt7?usp=sharing)
+
+### Authors
+
+<a href="https://bharadwaj-manda.netlify.app/">Manda, Bharadwaj</a> and <a href="https://www.linkedin.com/in/shubham-dhayarkar-a16a75153/?originalSubdomain=in">Dhayarkar, Shubham</a> and <a href="https://smj007.github.io/">Mitheran, Sai</a> and <a href="https://vkviekash-homepage.github.io/">V.K, Viekash</a> and <a href="https://ed.iitm.ac.in/~raman/">Muthuganapathy, Ramanathan</a>
+
+### Paper/Citation
+
+<a href="https://arxiv.org/pdf/2107.06212.pdf" target="_blank"><img src="paper.png" alt="Paper" class="paper" width="200" height="282"/></a>
+
+This is the arxiv version. 
+
+Please cite our paper if you use the CADNET dataset.
+
+```bibtex
+@article{MANDA2021100,
+title = {‘CADSketchNet’ - An Annotated Sketch dataset for 3D CAD Model Retrieval with Deep Neural Networks},
+journal = {Computers & Graphics},
+volume = {99},
+pages = {100-113},
+year = {2021},
+issn = {0097-8493},
+doi = {https://doi.org/10.1016/j.cag.2021.07.001},
+url = {https://www.sciencedirect.com/science/article/pii/S0097849321001333},
+author = {Bharadwaj Manda and Shubham Dhayarkar and Sai Mitheran and V.K. Viekash and Ramanathan Muthuganapathy},
+keywords = {Retrieval, Search, Dataset, Deep Learning, CAD, Sketch}
+}
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Bharadwaj Manda, Shubham Dhayarkar, Sai Mitheran, V.K. Viekash, Ramanathan Muthuganapathy,
+‘CADSketchNet’ - An Annotated Sketch dataset for 3D CAD Model Retrieval with Deep Neural Networks,
+Computers & Graphics,
+Volume 99, 2021,
+Pages 100-113, ISSN 0097-8493,
+https://doi.org/10.1016/j.cag.2021.07.001.
+(https://www.sciencedirect.com/science/article/pii/S0097849321001333)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bharadwaj-manda/CADSketchNet/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Acknowledgements
 
-### Support or Contact
+We are grateful to the teams of ESB and MCB for making their datasets available. Thanks are also due to the many members who have contributed to the CADSketch dataset.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### License
+
+This dataset is licensed under CC BY-NC-SA: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International This license is one of the Creative Commons licenses and allows users to share the dataset only if they (1) give credit to the copyright holder, (2) do not use the dataset for any commercial purposes, and (3) distribute any additions, transformations or changes to the dataset under this same license.
