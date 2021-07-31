@@ -32,6 +32,12 @@ This is the repository for the 'CADSketchNet' Dataset, associated with the paper
 
 For further details, contact Bharadwaj Manda via [here](https://www.linkedin.com/in/bharadwaj-manda-9730ab114/) or [here](https://bharadwaj-manda.netlify.app/)
 
+## Download
+
+Download the Dataset-A [here](https://drive.google.com/file/d/1kH6Bpt6IWIEOZxcu1vVBK9Bd9WG84kTk/view?usp=sharing)
+
+Download the Dataset-B [here](https://drive.google.com/file/d/10XRLO7T58Lq54YtL7wX3CJ1VpsFUo2nW/view?usp=sharing)
+
 
 ### To cite this Dataset or Paper:
 
