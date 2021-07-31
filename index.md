@@ -31,10 +31,11 @@ For further details, contact Bharadwaj Manda via [here](https://www.linkedin.com
 
 ## Download
 
-[Download Dataset-A](https://drive.google.com/file/d/1kH6Bpt6IWIEOZxcu1vVBK9Bd9WG84kTk/view?usp=sharing)
+[Download Dataset-A](https://github.com/bharadwaj-manda/CADSketchNet/blob/main/Dataset_A.7z)
 
-[Download Dataset-B](https://drive.google.com/file/d/10XRLO7T58Lq54YtL7wX3CJ1VpsFUo2nW/view?usp=sharing)
+[Download Dataset-B](https://github.com/bharadwaj-manda/CADSketchNet/blob/main/Dataset_B.7z)
 
+If the above links do not work for you, please [download both the datasets here](https://drive.google.com/drive/folders/1Q_j3wudpRMiz6T5KZdwILbrH_kQLjLt7?usp=sharing)
 
 ### Authors
 
@@ -79,3 +80,4 @@ We are grateful to the teams of ESB and MCB for making their datasets available.
 ### License
 
 This dataset is licensed under CC BY-NC-SA: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International This license is one of the Creative Commons licenses and allows users to share the dataset only if they (1) give credit to the copyright holder, (2) do not use the dataset for any commercial purposes, and (3) distribute any additions, transformations or changes to the dataset under this same license.
+
