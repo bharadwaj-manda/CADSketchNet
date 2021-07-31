@@ -10,7 +10,7 @@ layout: default
 
 > **(2021, July 03)** This is the repository for the 'CADSketchNet' Dataset, associated with the paper ['CADSketchNet' - An Annotated Sketch dataset for 3D CAD Model Retrieval with Deep Neural Networks](https://www.sciencedirect.com/science/article/pii/S0097849321001333). For further details, contact Bharadwaj Manda via [here](https://www.linkedin.com/in/bharadwaj-manda-9730ab114/) or [here](https://bharadwaj-manda.netlify.app/)
 
-## CADSketchNet Dataset
+## Dataset
 
 <figure>
   <img src="comp-gen.png" alt="data" width="500" height="300"/>
