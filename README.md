@@ -36,6 +36,7 @@ For further details, contact Bharadwaj Manda via [here](https://www.linkedin.com
 ## Download
 
 Download the Dataset-A [here](https://drive.google.com/file/d/1kH6Bpt6IWIEOZxcu1vVBK9Bd9WG84kTk/view?usp=sharing)
+- Click [here](https://drive.google.com/file/d/1ZUaO4iKDTjz7j9LDSNW8_qpFpqHpDil2/view?usp=sharing) to download the 80-20 train-test split used in the paper
 
 Download the Dataset-B [here](https://drive.google.com/file/d/10XRLO7T58Lq54YtL7wX3CJ1VpsFUo2nW/view?usp=sharing)
 
