@@ -29,6 +29,7 @@ This is the repository for the 'CADSketchNet' Dataset, associated with the paper
 	- Dataset-A has 58,696 computer-generated sketches of the 3D CAD models across 68 categories of [MCB](https://mechanical-components.herokuapp.com/)
 	- Dataset-B has 801 hand-drawn sketches of the 3D CAD models across 42 categories of [ESB](https://engineering.purdue.edu/cdesign/wp/downloads/)
 
+- *Few images from the Dataset-A (computer-generated sketches) have some missing lines and features. We are currently in the process of cleaning up these sketches. An updated version will be released soon.*
 
 For further details, contact Bharadwaj Manda via [here](https://www.linkedin.com/in/bharadwaj-manda-9730ab114/) or [here](https://bharadwaj-manda.netlify.app/)
 
