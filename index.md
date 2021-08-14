@@ -4,6 +4,8 @@ layout: default
 
 # CADSketchNet
 
+>**(2021, Aug 02)** Our paper has been awarded [The Graphics Replicability Stamp](http://www.replicabilitystamp.org/#https-github-com-bharadwaj-manda-cadsketchnet)
+
 >**(2021, July 20)** The final published version of the paper is [here](https://www.sciencedirect.com/science/article/pii/S0097849321001333)
 
 > **(2021, July 03)** The paper is accepted for publication in the Special Section on [3DOR2021 - 14th EG 3D Object Retrieval Workshop](https://3dor2021.github.io/index.html) of the [Computers & Graphics](https://www.journals.elsevier.com/computers-and-graphics) Journal. The arxiv version of the paper is available [here](https://arxiv.org/pdf/2107.06212.pdf).
