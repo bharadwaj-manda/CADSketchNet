@@ -3,6 +3,7 @@ layout: default
 ---
 
 # CADSketchNet
+>**(2021, Sep 05)** The full paper presentation at the [3DOR2021 - 14th EG 3D Object Retrieval Workshop](https://3dor2021.github.io/index.html) can be viewed [here](https://www.youtube.com/watch?v=snvcuHgJi-k&ab_channel=EG3DOR2021)
 
 >**(2021, Aug 02)** Our paper has been awarded [The Graphics Replicability Stamp](http://www.replicabilitystamp.org/#https-github-com-bharadwaj-manda-cadsketchnet)
 
@@ -47,7 +48,7 @@ Download the Dataset-B [here](https://drive.google.com/file/d/10XRLO7T58Lq54YtL7
 
 <a href="https://arxiv.org/pdf/2107.06212.pdf" target="_blank"><img src="paper.png" alt="Paper" class="paper" width="200" height="282"/></a>
 
-This is the arxiv version. 
+This is the arxiv version.
 
 Please cite our paper if you use the CADNET dataset.
 
@@ -82,4 +83,3 @@ We are grateful to the teams of ESB and MCB for making their datasets available.
 ### License
 
 This dataset is licensed under CC BY-NC-SA: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International This license is one of the Creative Commons licenses and allows users to share the dataset only if they (1) give credit to the copyright holder, (2) do not use the dataset for any commercial purposes, and (3) distribute any additions, transformations or changes to the dataset under this same license.
-
