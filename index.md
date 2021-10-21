@@ -11,7 +11,7 @@ layout: default
 
 > **(2021, July 03)** The paper is accepted for publication in the Special Section on [3DOR2021 - 14th EG 3D Object Retrieval Workshop](https://3dor2021.github.io/index.html) of the [Computers & Graphics](https://www.journals.elsevier.com/computers-and-graphics) Journal. The arxiv version of the paper is available [here](https://arxiv.org/pdf/2107.06212.pdf).
 
-> **(2021, July 03)** This is the repository for the 'CADSketchNet' Dataset, associated with the paper ['CADSketchNet' - An Annotated Sketch dataset for 3D CAD Model Retrieval with Deep Neural Networks](https://www.sciencedirect.com/science/article/pii/S0097849321001333). For further details, contact Bharadwaj Manda via [here](https://www.linkedin.com/in/bharadwaj-manda-9730ab114/) or [here](https://bharadwaj-manda.netlify.app/)
+> **(2021, July 03)** This is the repository for the 'CADSketchNet' Dataset, associated with the paper ['CADSketchNet' - An Annotated Sketch dataset for 3D CAD Model Retrieval with Deep Neural Networks](https://www.sciencedirect.com/science/article/pii/S0097849321001333). For further details, contact Bharadwaj Manda via [here](https://www.linkedin.com/in/bharadwaj-manda-9730ab114/) or [here](bharadwaj-manda.github.io/)
 
 ## Dataset
 
@@ -42,7 +42,7 @@ Download the Dataset-B [here](https://drive.google.com/file/d/10XRLO7T58Lq54YtL7
 
 ### Authors
 
-<a href="https://bharadwaj-manda.netlify.app/">Manda, Bharadwaj</a> and <a href="https://www.linkedin.com/in/shubham-dhayarkar-a16a75153/?originalSubdomain=in">Dhayarkar, Shubham</a> and <a href="https://smj007.github.io/">Mitheran, Sai</a> and <a href="https://vkviekash-homepage.github.io/">V.K, Viekash</a> and <a href="https://ed.iitm.ac.in/~raman/">Muthuganapathy, Ramanathan</a>
+<a href="bharadwaj-manda.github.io/">Manda, Bharadwaj</a> and <a href="https://www.linkedin.com/in/shubham-dhayarkar-a16a75153/?originalSubdomain=in">Dhayarkar, Shubham</a> and <a href="https://smj007.github.io/">Mitheran, Sai</a> and <a href="https://vkviekash-homepage.github.io/">V.K, Viekash</a> and <a href="https://ed.iitm.ac.in/~raman/">Muthuganapathy, Ramanathan</a>
 
 ### Paper/Citation
 
